@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_trien_khai_du_an_dai_hoc_khong_rac_thai_ --> navigate to Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_",
+        "step 3: At Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_ input on textarea_comment",
+        "step 4: At Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_ input on textarea_comment",
+        "step 5: At Page_trien-khai-du-an-dai-hoc-khong-rac-thai-dau-tien_ click on input_submit --> navigate to Page_wp-comments-post_php",
+        "step 6: Add visual checkpoint at Page_wp-comments-post_php"
+    ]
+}

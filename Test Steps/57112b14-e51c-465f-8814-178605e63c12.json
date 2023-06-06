@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_positive_growth_ --> navigate to Page_positive-growth_",
+        "step 3: At Page_positive-growth_ click on hyperlink_category_khoa_hoc_suc_khoe_ --> navigate to Page_category_khoa-hoc-suc-khoe_",
+        "step 4: At Page_category_khoa-hoc-suc-khoe_ click on hyperlink_gioi_thieu_ve_an_tho_raw_foods_diet_va_p --> navigate to Page_gioi-thieu-ve-an-tho-raw-foods-diet-va-phan-biet-raw-vegan-voi-fruitarian_",
+        "step 5: Add visual checkpoint at Page_gioi-thieu-ve-an-tho-raw-foods-diet-va-phan-biet-raw-vegan-voi-fruitarian_"
+    ]
+}
